@@ -206,10 +206,7 @@ export default {
 </script>
 
 <style>
-.v-container {
-  max-width: 600px;
-  margin: auto;
-}
+
 body {
   background-color: #8c8b8b;
 }
