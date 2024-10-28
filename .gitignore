@@ -1,0 +1,42 @@
+.DS_Store
+/HidraCalc-front/node_modules
+/HidraCalc-front/dist
+
+# local env files
+/HidraCalc-front/.env.local
+/HidraCalc-front/.env.*.local
+
+# Log files
+/HidraCalc-front/npm-debug.log*
+/HidraCalc-front/yarn-debug.log*
+/HidraCalc-front/yarn-error.log*
+/HidraCalc-front/pnpm-debug.log*
+
+# Editor directories and files
+/HidraCalc-front/.idea
+/HidraCalc-front/.vscode
+/HidraCalc-front/*.suo
+/HidraCalc-front/*.ntvs*
+/HidraCalc-front/*.njsproj
+/HidraCalc-front/*.sln
+/HidraCalc-front/*.sw?
+
+/HidraCalc-Back/.phpunit.cache
+/HidraCalc-Back/node_modules
+/HidraCalc-Back/public/build
+/HidraCalc-Back/public/hot
+/HidraCalc-Back/public/storage
+/HidraCalc-Back/storage/*.key
+/HidraCalc-Back/vendor
+/HidraCalc-Back/.env
+/HidraCalc-Back/.env.backup
+/HidraCalc-Back/.env.production
+/HidraCalc-Back/.phpunit.result.cache
+/HidraCalc-Back/Homestead.json
+/HidraCalc-Back/Homestead.yaml
+/HidraCalc-Back/auth.json
+/HidraCalc-Back/npm-debug.log
+/HidraCalc-Back/yarn-error.log
+/HidraCalc-Back/.fleet
+/HidraCalc-Back/.idea
+/HidraCalc-Back/.vscode
